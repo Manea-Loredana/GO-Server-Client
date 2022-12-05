@@ -1,0 +1,5 @@
+{
+"server_motd": "Bine ai venit! Ai la dispozitie urmatorul set de comenzi : 1. Ex.3",
+"max_connections": 5,
+"port": "1234"
+}
